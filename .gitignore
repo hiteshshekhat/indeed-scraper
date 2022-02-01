@@ -1,0 +1,70 @@
+# Editors
+.vscode/
+.idea/
+
+# geckodriver
+geckodriver.exe
+
+# .pid files
+*.pid
+
+# excel files
+*.xls
+*.xlsx
+
+# .pckl (e.g. pickle) files
+*.pckl
+
+# binaries
+binaries
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+*.txt
+*.jl
+*.jsonl
+*.sqlite
+*.rar
+*.zip
+.scrapy/
+#*.log
+#temp
+temp.*
+check_ats.csv
+project/operations/urls.txt
+project/output/*.csv
+project/output/*.jl
+project/output/*.txt
+project/checkATS/check_ats_quick
+output
+shoavim/proxies.txt.pid
+*pckl.backup
+node_modules
+google_news/test_mongo/db
+
+project/angel_co/angel_urls_cache.sqlite
